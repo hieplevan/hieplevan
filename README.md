@@ -29,22 +29,10 @@
 
 </td>
 <td width="42%" valign="top">
-
-```python
-class LeVanHiep:
-    role  = "AI / ML Researcher"
-    uni   = "VNUHCM-UIT"
-    focus = [
-        "Selective Inference",
-        "XAI & Interpretability",
-        "Time-Series Forecasting",
-        "NLP / Active RAG",
-    ]
-    def mission(self):
-        return "Accurate AND trustworthy AI"
-```
+<img src="./assets/catdog.gif" alt="Cat and Dog Banner" width="65%" />
 
 </td>
+
 </tr>
 </table>
 
