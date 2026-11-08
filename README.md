@@ -16,17 +16,16 @@
   </p>
 
 </div>
-## 👨‍💻 Profile
+👨‍💻 Profile
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
 - 🎓 **Education:** Computer Science @ **VNUHCM – University of Information Technology**
-- 🔬 **Research:** Statistical ML, Selective Inference (SI), XAI, Mechanistic Interpretability
-- 🧠 **Interests:** Time-Series Forecasting, Low-Resource NLP, Active RAG
-- 🛠️ **Now:** Robust ML pipelines, agentic workflows, deep neural architectures
-- 🎯 **Goal:** Ship interpretable, data-driven AI that solves real problems
+-  **Research:** Cross-Lingual Transfer
+-  **Interests:** Time-Series Forecasting, Low-Resource NLP, Active RAG, Robust ML pipelines, agentic workflows, deep neural architectures
+-  **Goal:** Rich
 
 </td>
 <td width="42%" valign="top">
@@ -63,8 +62,6 @@ class LeVanHiep:
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 </div>
 
-## Pac-Man Contribution Graph
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieplevan/hieplevan/output/pacman-contribution-graph-dark.svg" />
@@ -72,14 +69,12 @@ class LeVanHiep:
   </picture>
 </div>
 
-## GitHub Analytics
-
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieplevan/hieplevan/output/pacman-contribution-graph-dark.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hieplevan/hieplevan/output/pacman-contribution-graph.svg" />
+  </picture>
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=hieplevan&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <br/>
-  <sub><i>Make models that are not only accurate, but trustworthy.</i></sub>
-</div>
