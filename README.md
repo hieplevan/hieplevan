@@ -16,7 +16,12 @@
 
 </div>
 <div>
- 
+ <div align="center">
+  <marquee behavior="alternate" direction="left" scrollamount="6">
+    <img src="./assets/cat.gif" width="45" alt="Cat Walking" />
+  </marquee>
+  <hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #38bdf8, transparent); margin-top: -10px;" />
+</div>
 ## 👨‍💻 Profile
 <table>
 <tr>
