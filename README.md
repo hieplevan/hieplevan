@@ -1,33 +1,13 @@
 <div align="center">
 
-  <table style="border: none; background: transparent;">
-    <tr>
-      <td>
-        <!-- Thanh tiêu đề Terminal MacOS -->
-        <div style="background-color: #1e1e2e; border-top-left-radius: 10px; border-top-right-radius: 10px; padding: 10px 14px; display: flex; align-items: center;">
-          <span style="height: 12px; width: 12px; background-color: #ff5f56; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
-          <span style="height: 12px; width: 12px; background-color: #ffbd2e; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
-          <span style="height: 12px; width: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block; margin-right: 15px;"></span>
-          <span style="color: #6c7086; font-family: monospace; font-size: 13px;">bash ~ levanhiep@uit:~$</span>
-        </div>
-        <!-- Vùng nội dung chữ gõ máy động -->
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Hi+there%2C+I'm+Le+Van+Hiep+%F0%9F%91%8B;AI+Engineer+%7C+Machine+Learning+Researcher;Focus%3A+Selective+Inference+%26+XAI;Building+Accurate+AND+Trustworthy+AI" alt="Typing SVG" />
-        </a>
-      </td>
-    </tr>
-  </table>
+ <div align="center">
 
-  <br/>
-
-  <!-- Dàn Badges liên hệ bo tròn phẳng -->
-  <p>
-    <a href="mailto:24520481@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Email-24520481%40gm.uit.edu.vn-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/hieplevan"><img src="https://img.shields.io/badge/GitHub-hieplevan-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/UIT-VNUHCM-0A66C2?style=flat-square" />
-    <img src="https://komarev.com/ghpvc/?username=hieplevan&label=Views&color=00F2FE&style=flat-square" />
-  </p>
-
+  <img src="./assets/particles.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;" />
+  
+  <br/><br/>
+  <h1>Lê Văn Hiệp 👋</h1>
+  <p><strong>AI Engineer | Machine Learning </strong></p>
+</div>
 </div>
 👨‍💻 Profile
 
