@@ -15,8 +15,9 @@
     <img src="https://komarev.com/ghpvc/?username=hieplevan&label=Views&color=22d3ee&style=for-the-badge" alt="Views" />
   </p>
 </div>
-</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
 ## 👨‍💻 Profile
 <table>
 <tr>
@@ -36,7 +37,7 @@
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 ## Tech Stack
 
 <div align="center">
