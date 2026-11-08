@@ -2,7 +2,7 @@
 
   <!-- 1. Video trên cùng -->
   <img src="./assets/catdog.gif" alt="Cat and Dog Banner" width="65%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Hi%20there,%20I'm%20Le%20Van%20Hiep%20👋&fontSize=38&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20Researcher&descFontSize=18&descAlignY=58&fontColor=ffffff" width="100%"/>
   <br/><br/>
 
   <h1>Lê Văn Hiệp</h1>
