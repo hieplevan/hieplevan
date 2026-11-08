@@ -2,10 +2,11 @@
 
  <div align="center">
 
-  <img src="./assets/waterfall.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;" />
-  <h1>Lê Văn Hiệp 👋</h1>
-  <p><strong>AI Engineer | Machine Learning </strong></p>
-<p>
+  <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&width=650&height=80&lines=%24+whoami;%3E+Le+Van+Hiep+%5BAI+Engineer+%7C+ML+Researcher%5D" alt="Terminal Typing" />
+  </a>
+</div>
     <a href="mailto:24520481@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Email-24520481%40gm.uit.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/hieplevan"><img src="https://img.shields.io/badge/GitHub-hieplevan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <img src="https://img.shields.io/badge/UIT-VNUHCM-0A66C2?style=for-the-badge" alt="UIT" />
