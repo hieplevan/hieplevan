@@ -24,11 +24,13 @@
   
 🎓 **Education**  
 Computer Science @ VNUHCM – University of Information Technology
+
 🧠 **Areas of Interest**
 - Time-Series Forecasting
 - Low-Resource NLP
 - Adaptive RAG & Agentic AI
 - Robust Machine Learning Pipelines
+- Cross-Lingual Transfer
 </td>
 <td width="60%" valign="top">
 <img src="./assets/catdog.gif" alt="Cat and Dog Banner" width="100%" />
