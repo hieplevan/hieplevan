@@ -24,16 +24,11 @@
   
 🎓 **Education**  
 Computer Science @ VNUHCM – University of Information Technology
-
-🔬 **Research Focus**  
-Cross-Lingual Transfer Learning
-
 🧠 **Areas of Interest**
 - Time-Series Forecasting
 - Low-Resource NLP
 - Adaptive RAG & Agentic AI
 - Robust Machine Learning Pipelines
-- Deep Neural Architectures
 </td>
 <td width="60%" valign="top">
 <img src="./assets/catdog.gif" alt="Cat and Dog Banner" width="100%" />
