@@ -16,7 +16,9 @@
 
 </div>
 <div>
-
+<div align="center">
+  <img src="./assets/card.svg" width="100%" />
+</div>
 ## 👨‍💻 Profile
 <table>
 <tr>
