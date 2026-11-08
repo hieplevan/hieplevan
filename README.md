@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
   <!-- HEADER -->
@@ -140,4 +139,3 @@ Building intelligent, reliable, and efficient AI systems.
   *Exploring the intersection of Machine Learning, NLP, and intelligent systems.*
 
 </div>
-```
