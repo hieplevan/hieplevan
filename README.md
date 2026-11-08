@@ -3,8 +3,6 @@
  <div align="center">
 
   <img src="./assets/catdog.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;" />
-  
-  <br/><br/>
   <h1>Lê Văn Hiệp 👋</h1>
   <p><strong>AI Engineer | Machine Learning </strong></p>
 <p>
