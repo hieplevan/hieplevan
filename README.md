@@ -16,9 +16,10 @@
 
 </div>
 <div>
-<marquee direction="left" scrollamount="7">
-  <img src="./assets/cat.gif" width="45" alt="Cat Walking" />
-</marquee>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/cat.gif" width="100%" />
+</div>
+ 
 ## 👨‍💻 Profile
 <table>
 <tr>
