@@ -1,101 +1,24 @@
-
-<svg width="850" height="340" viewBox="0 0 850 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Bo góc cho toàn bộ Card -->
-    <clipPath id="card-radius">
-      <rect width="850" height="340" rx="16" ry="16" />
-    </clipPath>
-
-    <!-- Gradient phủ mờ giúp chữ nổi rõ trên nền GIF -->
-    <linearGradient id="overlay-grad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#070a13" stop-opacity="0.94" />
-      <stop offset="55%" stop-color="#0b1329" stop-opacity="0.82" />
-      <stop offset="100%" stop-color="#070a13" stop-opacity="0.92" />
-    </linearGradient>
-
-    <!-- Hiệu ứng nhấp nháy cho con trỏ Terminal -->
-    <style>
-      .blink {
-        animation: blinker 1s infinite;
-      }
-      @keyframes blinker {
-        0%, 100% { opacity: 1; }
-        50% { opacity: 0; }
-      }
-      .glow-text {
-        text-shadow: 0 0 12px rgba(34, 211, 238, 0.6);
-      }
-    </style>
+    <!-- Đường ray hình chữ nhật bo góc để mèo chạy theo vòng tròn -->
+    <path id="track" d="M 40,20 H 740 A 20,20 0 0 1 760,40 V 140 A 20,20 0 0 1 740,160 H 40 A 20,20 0 0 1 20,140 V 40 A 20,20 0 0 1 40,20 Z" />
   </defs>
 
-  <g clip-path="url(#card-radius)">
-    <!-- 1. ẢNH GIF NỀN (Bạn chỉ cần đổi tên file GIF nền vào href bên dưới) -->
+  <!-- Viền nét đứt của đường ray quanh ô (tùy chọn hiển thị) -->
+  <use href="#track" stroke="#38bdf8" stroke-dasharray="6 6" stroke-width="1.5" stroke-opacity="0.3" fill="none" />
+
+  <!-- Chữ hiển thị ở tâm của ô -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="16" fill="#94a3b8">
+    🐾 Catch me if you can! 🐾
+  </text>
+
+  <!-- Chú mèo di chuyển tuần hoàn dọc theo đường ray 4 cạnh -->
+  <g>
+    <animateMotion dur="12s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#track" />
+    </animateMotion>
     
-
-    <!-- 2. LỚP PHỦ MỜ (Giúp chữ và code luôn rõ nét, không bị chìm vào nền) -->
-    <rect width="850" height="340" fill="url(#overlay-grad)" />
-
-    <!-- 3. ĐƯỜNG VIỀN CARD CYBERPUNK -->
-    <rect x="1" y="1" width="848" height="338" rx="15" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="1.5" />
-
-    <!-- ==================== CỘT TRÁI: THÔNG TIN ==================== -->
-    <!-- Tag Pill -->
-    <rect x="45" y="42" width="165" height="24" rx="12" fill="#22d3ee" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.4" />
-    <text x="57" y="58" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="11" font-weight="700" fill="#22d3ee" letter-spacing="1">AI & STATISTICAL ML</text>
-
-    <!-- Tên -->
-    <text x="45" y="105" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="34" font-weight="800" fill="#ffffff" class="glow-text">Lê Văn Hiệp</text>
-
-    <!-- Chức danh -->
-    <text x="45" y="132" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="15" font-weight="600" fill="#38bdf8">AI Engineer <tspan fill="#64748b">•</tspan> ML Researcher</text>
-
-    <!-- Mô tả ngắn -->
-    <text x="45" y="172" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="13" fill="#cbd5e1">Nghiên cứu Statistical ML, Selective Inference (SI) & XAI.</text>
-    <text x="45" y="194" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif" font-size="13" fill="#cbd5e1">Xây dựng hệ thống học máy vững chắc và chuẩn xác.</text>
-
-    <!-- Badges kỹ năng -->
-    <g transform="translate(45, 235)">
-      <!-- Badge 1 -->
-      <rect x="0" y="0" width="75" height="26" rx="6" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.15" />
-      <text x="14" y="17" font-family="monospace" font-size="11" fill="#e2e8f0">PyTorch</text>
-
-      <!-- Badge 2 -->
-      <rect x="85" y="0" width="110" height="26" rx="6" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.15" />
-      <text x="96" y="17" font-family="monospace" font-size="11" fill="#e2e8f0">Selective Inf</text>
-
-      <!-- Badge 3 -->
-      <rect x="205" y="0" width="95" height="26" rx="6" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.15" />
-      <text x="217" y="17" font-family="monospace" font-size="11" fill="#e2e8f0">Time-Series</text>
-
-      <!-- Badge 4 -->
-      <rect x="310" y="0" width="55" height="26" rx="6" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.15" />
-      <text x="323" y="17" font-family="monospace" font-size="11" fill="#e2e8f0">C++</text>
-    </g>
-
-    <!-- ==================== CỘT PHẢI: KHỐI TERMINAL ==================== -->
-    <g transform="translate(490, 45)">
-      <!-- Khung Terminal Glassmorphism -->
-      <rect width="315" height="245" rx="10" fill="#030712" fill-opacity="0.75" stroke="#ffffff" stroke-opacity="0.12" stroke-width="1" />
-      
-      <!-- 3 Nút Mac OS -->
-      <circle cx="20" cy="20" r="5" fill="#ef4444" />
-      <circle cx="36" cy="20" r="5" fill="#eab308" />
-      <circle cx="52" cy="20" r="5" fill="#22c55e" />
-      <text x="75" y="24" font-family="monospace" font-size="11" fill="#64748b">levanhiep@uit:~</text>
-
-      <!-- Dòng lệnh bên trong Terminal -->
-      <g font-family="&#39;JetBrains Mono&#39;, Consolas, monospace" font-size="12">
-        <text x="18" y="58" fill="#38bdf8">$ <tspan fill="#f8fafc">python main.py</tspan></text>
-        
-        <text x="18" y="90" fill="#f43f5e">class <tspan fill="#38bdf8">Researcher</tspan>:</text>
-        <text x="32" y="115" fill="#c084fc">uni   <tspan fill="#e2e8f0">=</tspan> <tspan fill="#67e8f9">"UIT-VNUHCM"</tspan></text>
-        <text x="32" y="140" fill="#c084fc">focus <tspan fill="#e2e8f0">=</tspan> <tspan fill="#67e8f9">["XAI", "SI"]</tspan></text>
-        <text x="32" y="165" fill="#c084fc">goal  <tspan fill="#e2e8f0">=</tspan> <tspan fill="#67e8f9">"Trustworthy AI"</tspan></text>
-
-        <text x="18" y="205" fill="#22c55e">>>> <tspan fill="#94a3b8">Status: Training</tspan></text>
-        <!-- Con trỏ nhấp nháy -->
-        <rect x="150" y="195" width="7" height="12" fill="#22d3ee" class="blink" />
-      </g>
-    </g>
+    <!-- Nhúng ảnh con mèo vào đây (dùng Data URI Base64 hoặc link raw github) -->
+    
   </g>
 </svg>
