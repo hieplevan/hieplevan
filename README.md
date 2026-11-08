@@ -5,7 +5,7 @@
   <div align="center">
  <div align="center">
   <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=190&section=header&text=Le%20Van%20Hiep&fontSize=38&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning&descFontSize=18&descAlignY=58&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=190&section=header&text=Le%20Van%20Hiep&fontSize=38&fontAlignY=38&desc=AI%20Engineer%20%7C%&descFontSize=18&descAlignY=58&fontColor=ffffff&animation=fadeIn" width="100%" />
  </div>
     <a href="mailto:24520481@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Email-24520481%40gm.uit.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/hieplevan"><img src="https://img.shields.io/badge/GitHub-hieplevan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
