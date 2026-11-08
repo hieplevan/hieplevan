@@ -46,8 +46,6 @@ Computer Science @ VNUHCM – University of Information Technology
   <br/><br/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP-FF0051?style=flat-square" />
-  <img src="https://img.shields.io/badge/Selective%20Inference-7C3AED?style=flat-square" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 </div>
