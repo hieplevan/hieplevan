@@ -5,7 +5,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20,27,33&height=220&section=header&text=Le%20Van%20Hiep%20👋&fontSize=38&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%&descFontSize=18&descAlignY=58&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
   <br/><br/>
-
   <p>
     <a href="mailto:24520481@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Email-24520481%40gm.uit.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/hieplevan"><img src="https://img.shields.io/badge/GitHub-hieplevan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -26,7 +25,7 @@
 -  **Goal:** Rich
 
 </td>
-<td width="42%" valign="top">
+<td width="60%" valign="top">
 <img src="./assets/catdog.gif" alt="Cat and Dog Banner" width="65%" />
 
 </td>
