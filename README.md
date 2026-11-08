@@ -14,8 +14,9 @@
     <img src="https://komarev.com/ghpvc/?username=hieplevan&label=Views&color=22d3ee&style=for-the-badge" alt="Views" />
   </p>
 </div>
-👨‍💻 Profile
+</div>
 
+👨‍💻 Profile
 <table>
 <tr>
 <td width="58%" valign="top">
