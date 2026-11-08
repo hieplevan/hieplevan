@@ -1,5 +1,12 @@
 <div align="center">
-
+ <p align="center">
+   <img
+     src="./assets/oto.gif"
+     width="100%"
+     height="350"
+     alt="Lê Văn Hiệp - AI Engineer"
+   />
+ </p>
  <div align="center">
 
   <div align="center">
