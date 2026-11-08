@@ -16,9 +16,9 @@
 
 </div>
 <div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/nyan-cat.gif" width="250" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="70" alt="Pixel Cat Running" />
+</div>
  
 ## 👨‍💻 Profile
 <table>
