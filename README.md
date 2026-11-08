@@ -1,141 +1,60 @@
 <div align="center">
 
-  <!-- HEADER -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=200&section=header&text=Le%20Van%20Hiep&fontSize=42&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning&descSize=18&descAlignY=60&fontColor=ffffff&animation=fadeIn"
-    width="100%"
-    alt="Le Van Hiep - AI Engineer"
-  />
+ <div align="center">
 
-  <p>
-    <a href="mailto:24520481@gm.uit.edu.vn">
-      <img src="https://img.shields.io/badge/Email-24520481%40gm.uit.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/hieplevan">
-      <img src="https://img.shields.io/badge/GitHub-hieplevan-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <img src="https://img.shields.io/badge/UIT-VNUHCM-0A66C2?style=for-the-badge" />
-    <img src="https://komarev.com/ghpvc/?username=hieplevan&label=Profile%20Views&color=22d3ee&style=for-the-badge" />
+  <div align="center">
+ <div align="center">
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=190&section=header&text=Le%20Van%20Hiep&fontSize=38&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning&descFontSize=18&descAlignY=58&fontColor=ffffff&animation=fadeIn" width="100%" />
+ </div>
+    <a href="mailto:24520481@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Email-24520481%40gm.uit.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/hieplevan"><img src="https://img.shields.io/badge/GitHub-hieplevan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <img src="https://img.shields.io/badge/UIT-VNUHCM-0A66C2?style=for-the-badge" alt="UIT" />
+    <img src="https://komarev.com/ghpvc/?username=hieplevan&label=Views&color=22d3ee&style=for-the-badge" alt="Views" />
   </p>
-
 </div>
 
----
+</div>
+<div>
 
-## 👨‍💻 About Me
-
+## 👨‍💻 Profile
 <table>
-  <tr>
-    <td width="60%" valign="center">
+<tr>
+<td width="58%" valign="top">
+  
+-  **Education:** Computer Science @ **VNUHCM – University of Information Technology**
+-  **Research:** Cross-Lingual Transfer
+-  **Interests:** Time-Series Forecasting, Low-Resource NLP, Active RAG, Robust ML pipelines, agentic workflows, deep neural architectures
+-  **Goal:** Rich
+</td>
+<td width="60%" valign="top">
+<img src="./assets/catdog.gif" alt="Cat and Dog Banner" width="100%" />
 
-### Hi, I'm Le Van Hiep 👋
+</td>
 
-🎓 **Education**  
-Computer Science @ VNUHCM – University of Information Technology
-
-🔬 **Research Focus**  
-Cross-Lingual Transfer Learning
-
-🧠 **Areas of Interest**
-- Time-Series Forecasting
-- Low-Resource NLP
-- Adaptive RAG & Agentic AI
-- Robust Machine Learning Pipelines
-- Deep Neural Architectures
-
-🚀 **Goal**  
-Building intelligent, reliable, and efficient AI systems.
-
-    </td>
-    <td width="40%" align="center" valign="center">
-      <img src="./assets/catdog.gif" width="100%" alt="Cat and Dog Animation" />
-    </td>
-  </tr>
+</tr>
 </table>
 
----
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Programming Languages & Tools
-
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,git,docker,linux,vscode&perline=7" />
-
-<br/><br/>
-
-### AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas&perline=5" />
-
-<br/><br/>
-
-### Frameworks & Research Tools
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/SHAP-FF0051?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Selective%20Inference-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-
-</div>
-
----
-
-## 📊 GitHub Statistics
+## Tech Stack
 
 <div align="center">
-
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hieplevan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="165"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieplevan&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,bash,pytorch,tensorflow,sklearn,numpy,pandas,git,docker,linux,vscode&perline=12" />
   <br/><br/>
-
-  <img
-    src="https://streak-stats.demolab.com/?user=hieplevan&theme=tokyonight&hide_border=true&border_radius=10"
-    width="75%"
-    alt="GitHub Streak"
-  />
-
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/SHAP-FF0051?style=flat-square" />
+  <img src="https://img.shields.io/badge/Selective%20Inference-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 </div>
 
----
-
-## 🐍 Contribution Activity
 
 <div align="center">
-
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/hieplevan/hieplevan/output/pacman-contribution-graph-dark.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/hieplevan/hieplevan/output/pacman-contribution-graph.svg"
-      width="100%"
-      alt="Pacman Contribution Graph"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieplevan/hieplevan/output/pacman-contribution-graph-dark.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hieplevan/hieplevan/output/pacman-contribution-graph.svg" />
   </picture>
-
-</div>
-
----
-
-<div align="center">
-
-  ### 💡 Always Learning. Always Building.
-
-  *Exploring the intersection of Machine Learning, NLP, and intelligent systems.*
-
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=hieplevan&theme=tokyonight&hide_border=true&border_radius=10&fire=FF4500&currStreakNum=70A5FD&sideNums=38BDF8&dates=94A3B8" alt="GitHub Streak" />
 </div>
