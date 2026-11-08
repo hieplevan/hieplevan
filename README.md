@@ -17,7 +17,7 @@
 </div>
 <div>
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Nyan_cat_250px_frame.PNG" width="200" alt="Nyan Cat" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220" alt="Nyan Cat Running" />
 </div>
  
 ## 👨‍💻 Profile
