@@ -18,7 +18,7 @@
       <mpath href="#track" />
     </animateMotion>
     
-    <!-- Nhúng ảnh con mèo vào đây (dùng Data URI Base64 hoặc link raw github) -->
+    <image href="https://raw.githubusercontent.com/hieplevan/hieplevan/main/assets/cat.gif" x="-25" y="-25" width="50" height="50" />
     
   </g>
 </svg>
