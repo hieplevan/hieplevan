@@ -1,12 +1,12 @@
 <div align="center">
 
   <!-- 1. Video trên cùng -->
-  <img src="./assets/catdog.gif" alt="Cat and Dog Banner" width="100%" />
+  <img src="./assets/catdog.gif" alt="Cat and Dog Banner" width="65%" />
 
   <br/><br/>
 
   <h1>Lê Văn Hiệp</h1>
-  <p><strong>AI Engineer | Machine Learning Researcher</strong></p>
+  <p><strong>AI Engineer | Machine Learning </strong></p>
 
   <p>
     <a href="mailto:24520481@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Email-24520481%40gm.uit.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
