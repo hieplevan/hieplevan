@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.gif" alt="Le Van Hiep - AI Engineer & ML Researcher" width="100%" />
+<img src="./assets/top.gif" alt="Le Van Hiep" width="100%" />
 
 <p>
   <a href="mailto:24520481@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Email-24520481%40gm.uit.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -65,6 +65,12 @@ class LeVanHiep:
 </table>
 </div>
 
+## 🌈 Pixel Waterfall
+
+<div align="center">
+  <img src="./assets/waterfall.gif" width="85%" alt="pixel waterfall" />
+</div>
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -84,16 +90,6 @@ class LeVanHiep:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieplevan/hieplevan/output/pacman-contribution-graph-dark.svg" />
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hieplevan/hieplevan/output/pacman-contribution-graph.svg" />
-  </picture>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieplevan/hieplevan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieplevan/hieplevan/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/hieplevan/hieplevan/output/github-snake-dark.svg" />
   </picture>
 </div>
 
