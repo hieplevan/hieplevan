@@ -5,7 +5,6 @@
 
   <br/><br/>
 
-  <!-- 2. Tên & Badges liên hệ -->
   <h1>Lê Văn Hiệp</h1>
   <p><strong>AI Engineer | Machine Learning Researcher</strong></p>
 
