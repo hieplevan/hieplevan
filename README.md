@@ -2,7 +2,7 @@
 
  <div align="center">
 
-  <img src="./assets/particles.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;" />
+  <img src="./assets/water.gif" width="100%" height="220px" style="object-fit: cover; border-radius: 10px;" />
   
   <br/><br/>
   <h1>Lê Văn Hiệp 👋</h1>
