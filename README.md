@@ -1,15 +1,31 @@
 <div align="center">
 
-  <!-- 1. Video trên cùng -->
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20,27,33&height=220&section=header&text=Le%20Van%20Hiep%20👋&fontSize=38&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%&descFontSize=18&descAlignY=58&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
-  <br/><br/>
+  <table style="border: none; background: transparent;">
+    <tr>
+      <td>
+        <!-- Thanh tiêu đề Terminal MacOS -->
+        <div style="background-color: #1e1e2e; border-top-left-radius: 10px; border-top-right-radius: 10px; padding: 10px 14px; display: flex; align-items: center;">
+          <span style="height: 12px; width: 12px; background-color: #ff5f56; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
+          <span style="height: 12px; width: 12px; background-color: #ffbd2e; border-radius: 50%; display: inline-block; margin-right: 6px;"></span>
+          <span style="height: 12px; width: 12px; background-color: #27c93f; border-radius: 50%; display: inline-block; margin-right: 15px;"></span>
+          <span style="color: #6c7086; font-family: monospace; font-size: 13px;">bash ~ levanhiep@uit:~$</span>
+        </div>
+        <!-- Vùng nội dung chữ gõ máy động -->
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&width=750&height=120&lines=Hi+there%2C+I'm+Le+Van+Hiep+%F0%9F%91%8B;AI+Engineer+%7C+Machine+Learning+Researcher;Focus%3A+Selective+Inference+%26+XAI;Building+Accurate+AND+Trustworthy+AI" alt="Typing SVG" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Dàn Badges liên hệ bo tròn phẳng -->
   <p>
-    <a href="mailto:24520481@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Email-24520481%40gm.uit.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/hieplevan"><img src="https://img.shields.io/badge/GitHub-hieplevan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <img src="https://img.shields.io/badge/UIT-VNUHCM-0A66C2?style=for-the-badge" alt="UIT" />
-    <img src="https://komarev.com/ghpvc/?username=hieplevan&label=Views&color=22d3ee&style=for-the-badge" alt="Views" />
+    <a href="mailto:24520481@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Email-24520481%40gm.uit.edu.vn-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/hieplevan"><img src="https://img.shields.io/badge/GitHub-hieplevan-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/UIT-VNUHCM-0A66C2?style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=hieplevan&label=Views&color=00F2FE&style=flat-square" />
   </p>
 
 </div>
