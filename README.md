@@ -16,7 +16,7 @@
   </p>
 </div>
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 ## 👨‍💻 Profile
 <table>
 <tr>
@@ -36,7 +36,7 @@
 </tr>
 </table>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 ## Tech Stack
 
 <div align="center">
