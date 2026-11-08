@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- 1. Video trên cùng -->
-  <video src="./assets/catdog.mp4" width="100%" autoplay loop muted playsinline></video>
+  <img src="./assets/catdog.gif" alt="Cat and Dog Banner" width="100%" />
 
   <br/><br/>
 
