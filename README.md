@@ -16,9 +16,9 @@
 
 </div>
 <div>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/cat.gif" width="100%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/nyan-cat.gif" width="250" />
+</p>
  
 ## 👨‍💻 Profile
 <table>
