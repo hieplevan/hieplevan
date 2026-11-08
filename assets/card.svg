@@ -1,24 +1,28 @@
-<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="850" height="50" viewBox="0 0 850 50" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Đường ray hình chữ nhật bo góc để mèo chạy theo vòng tròn -->
-    <path id="track" d="M 40,20 H 740 A 20,20 0 0 1 760,40 V 140 A 20,20 0 0 1 740,160 H 40 A 20,20 0 0 1 20,140 V 40 A 20,20 0 0 1 40,20 Z" />
+    <style>
+      @keyframes runAcross {
+        0% {
+          transform: translateX(20px);
+        }
+        50% {
+          transform: translateX(780px);
+        }
+        100% {
+          transform: translateX(20px);
+        }
+      }
+      .cat-mover {
+        animation: runAcross 10s ease-in-out infinite;
+      }
+    </style>
   </defs>
 
-  <!-- Viền nét đứt của đường ray quanh ô (tùy chọn hiển thị) -->
-  <use href="#track" stroke="#38bdf8" stroke-dasharray="6 6" stroke-width="1.5" stroke-opacity="0.3" fill="none" />
+  <!-- Đường kẻ line ngang phân cách mờ -->
+  <line x1="20" y1="42" x2="830" y2="42" stroke="#30363d" stroke-width="1.5" stroke-dasharray="4 4" />
 
-  <!-- Chữ hiển thị ở tâm của ô -->
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="16" fill="#94a3b8">
-    🐾 Catch me if you can! 🐾
-  </text>
-
-  <!-- Chú mèo di chuyển tuần hoàn dọc theo đường ray 4 cạnh -->
-  <g>
-    <animateMotion dur="12s" repeatCount="indefinite" rotate="auto">
-      <mpath href="#track" />
-    </animateMotion>
-    
-    <image href="https://raw.githubusercontent.com/hieplevan/hieplevan/main/assets/cat.gif" x="-25" y="-25" width="50" height="50" />
+  <!-- Con mèo chạy qua lại -->
+  <g class="cat-mover">
     
   </g>
 </svg>
