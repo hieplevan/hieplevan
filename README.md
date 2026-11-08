@@ -26,7 +26,7 @@
 
 </td>
 <td width="60%" valign="top">
-<img src="./assets/catdog.gif" alt="Cat and Dog Banner" width="65%" />
+<img src="./assets/catdog.gif" alt="Cat and Dog Banner" width="100%" />
 
 </td>
 
