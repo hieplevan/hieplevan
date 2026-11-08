@@ -1,40 +1,52 @@
 <div align="center">
+  <!-- Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=220&section=header&text=Hi%20there,%20I'm%20Le%20Van%20Hiep%20👋&fontSize=38&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Researcher&descFontSize=18&descAlignY=58&fontColor=ffffff" width="100%"/>
 
-  <!-- Aesthetic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,18,24&height=240&section=header&text=Hi%20there,%20I'm%20Le%20Van%20Hiep%20👋&fontSize=42&fontAlignY=38&fontColor=ffffff&descAlignY=62" width="100%" />
-
-  <!-- Typing Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=620&height=40&lines=AI+Engineer+%26+ML+Researcher;Specializing+in+Statistical+Learning+%26+XAI;Time-Series+Forecasting+%7C+NLP+%7C+Active+RAG;Building+Robust+%26+Interpretable+AI+Pipelines" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Social Badges -->
-  <p align="center">
+  <p>
     <a href="mailto:24520481@gm.uit.edu.vn">
-      <img src="https://img.shields.io/badge/Email-UIT%20Student-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-24520481%40gm.uit.edu.vn-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://github.com/hieplevan">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-hieplevan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <img src="https://img.shields.io/badge/Status-Researching%20%26%20Building-00C7B7?style=for-the-badge" alt="Status" />
   </p>
-
 </div>
 
 ---
 
-### 🧬 About Me
+### 👨‍💻 About Me
 
-```yaml
-identity:
-  name: Le Van Hiep
-  education: Computer Science @ University of Information Technology (VNUHCM-UIT)
-  role: AI / Machine Learning Researcher & Quantitative ML Engineer
-core_competencies:
-  - Statistical Machine Learning & Selective Inference (SI)
-  - Explainable AI (XAI) & Mechanistic Interpretability
-  - Deep Learning, Active RAG & Low-Resource NLP
-  - Time-Series Forecasting & Quantitative Modeling
-current_focus: Developing robust, selective, and high-performance AI frameworks
+- 🎓 **Education:** Undergraduate Student at **University of Information Technology (VNUHCM-UIT)**.
+- 🔬 **Research & Focus:** Statistical Machine Learning, Explainable AI (XAI), Selective Inference, Time-Series Forecasting & NLP.
+- 🛠️ **Current Work:** Developing robust ML pipelines, agentic workflows, and deep neural architectures.
+- 🎯 **Goals:** Deploying data-driven models and advanced AI solutions to solve real-world problems.
+
+---
+
+### 🧱 3D Contribution Graph
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,sklearn,linux,bash,git,docker,kaggle,vscode&perline=10" alt="Tech Stack" />
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hieplevan&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="Hiep's GitHub stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieplevan&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="175" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieplevan&theme=tokyonight" alt="GitHub Streak" />
+</div>
