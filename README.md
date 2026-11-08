@@ -7,7 +7,12 @@
   <br/><br/>
   <h1>Lê Văn Hiệp 👋</h1>
   <p><strong>AI Engineer | Machine Learning </strong></p>
-</div>
+<p>
+    <a href="mailto:24520481@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Email-24520481%40gm.uit.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/hieplevan"><img src="https://img.shields.io/badge/GitHub-hieplevan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <img src="https://img.shields.io/badge/UIT-VNUHCM-0A66C2?style=for-the-badge" alt="UIT" />
+    <img src="https://komarev.com/ghpvc/?username=hieplevan&label=Views&color=22d3ee&style=for-the-badge" alt="Views" />
+  </p>
 </div>
 👨‍💻 Profile
 
