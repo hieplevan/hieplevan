@@ -17,7 +17,7 @@
 </div>
 <div>
 <div align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="70" alt="Pixel Cat Running" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Nyan_cat_250px_frame.PNG" width="200" alt="Nyan Cat" />
 </div>
  
 ## 👨‍💻 Profile
