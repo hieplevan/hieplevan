@@ -3,9 +3,9 @@
  <div align="center">
 
   <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&multiline=true&width=650&height=80&lines=%24+whoami;%3E+Le+Van+Hiep+%5BAI+Engineer+%7C+ML+Researcher%5D" alt="Terminal Typing" />
-  </a>
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=190&section=header&text=Hi%20there,%20I'm%20Le%20Van%20Hiep%20👋&fontSize=34&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Researcher&descFontSize=17&descAlignY=58&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 </div>
     <a href="mailto:24520481@gm.uit.edu.vn"><img src="https://img.shields.io/badge/Email-24520481%40gm.uit.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/hieplevan"><img src="https://img.shields.io/badge/GitHub-hieplevan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
