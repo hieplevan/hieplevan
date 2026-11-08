@@ -34,9 +34,6 @@ Cross-Lingual Transfer Learning
 - Adaptive RAG & Agentic AI
 - Robust Machine Learning Pipelines
 - Deep Neural Architectures
-
-🚀 **Goal**  
-Building intelligent, reliable, and efficient AI systems.
 </td>
 <td width="60%" valign="top">
 <img src="./assets/catdog.gif" alt="Cat and Dog Banner" width="100%" />
