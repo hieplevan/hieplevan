@@ -75,8 +75,6 @@ class LeVanHiep:
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieplevan&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&hide_border=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieplevan&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" height="175" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=hieplevan&theme=tokyonight&hide_border=true" />
 </div>
