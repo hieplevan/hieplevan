@@ -29,7 +29,6 @@ Computer Science @ VNUHCM – University of Information Technology
 - Time-Series Forecasting
 - Low-Resource NLP
 - Adaptive RAG & Agentic AI
-- Robust Machine Learning Pipelines
 - Cross-Lingual Transfer
 </td>
 <td width="60%" valign="top">
