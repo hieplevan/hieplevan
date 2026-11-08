@@ -22,7 +22,7 @@
 <tr>
 <td width="58%" valign="top">
 
-- 🎓 **Education:** Computer Science @ **VNUHCM – University of Information Technology**
+-  **Education:** Computer Science @ **VNUHCM – University of Information Technology**
 -  **Research:** Cross-Lingual Transfer
 -  **Interests:** Time-Series Forecasting, Low-Resource NLP, Active RAG, Robust ML pipelines, agentic workflows, deep neural architectures
 -  **Goal:** Rich
