@@ -2,7 +2,7 @@
 
   <!-- 1. Video trên cùng -->
   <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20,27,33&height=220&section=header&text=Hi%20there,%20I'm%20Le%20Van%20Hiep%20👋&fontSize=38&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Researcher&descFontSize=18&descAlignY=58&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20,27,33&height=220&section=header&text=Le%20Van%20Hiep%20👋&fontSize=38&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%&descFontSize=18&descAlignY=58&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </div>
   <br/><br/>
 
