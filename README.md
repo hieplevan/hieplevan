@@ -16,9 +16,7 @@
 
 </div>
 <div>
-<div align="center">
-  <img src="./assets/card.svg" width="100%" />
-</div>
+ 
 ## 👨‍💻 Profile
 <table>
 <tr>
@@ -41,9 +39,6 @@ Computer Science @ VNUHCM – University of Information Technology
 
 </tr>
 </table>
-<marquee behavior="alternate" scrollamount="6">
-  <img src="./assets/cat.gif" width="60" alt="Pixel Cat Running" />
-</marquee>
 
 ## 🛠️Tech Stack
 
