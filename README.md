@@ -62,12 +62,6 @@ class LeVanHiep:
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieplevan/hieplevan/output/pacman-contribution-graph-dark.svg" />
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hieplevan/hieplevan/output/pacman-contribution-graph.svg" />
-  </picture>
-</div>
 
 <div align="center">
   <picture>
@@ -75,6 +69,6 @@ class LeVanHiep:
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hieplevan/hieplevan/output/pacman-contribution-graph.svg" />
   </picture>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=hieplevan&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=hieplevan&theme=tokyonight&hide_border=true&border_radius=10&fire=FF4500&currStreakNum=70A5FD&sideNums=38BDF8&dates=94A3B8" alt="GitHub Streak" />
 </div>
 
