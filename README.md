@@ -8,9 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,31&height=190&section=header&text=Le%20Van%20Hiep&fontSize=38&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning&descFontSize=18&descAlignY=58&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 ## 👨‍💻 Profile
