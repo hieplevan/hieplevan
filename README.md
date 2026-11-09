@@ -55,6 +55,6 @@ Computer Science @ VNUHCM – University of Information Technology
   </picture>
   <br/><br/>
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=hieplevan)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=hieplevan)](https://git.io/streak-stats)
 </div>
 </div>
