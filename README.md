@@ -54,5 +54,5 @@ Computer Science @ VNUHCM – University of Information Technology
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hieplevan/hieplevan/output/pacman-contribution-graph.svg" />
   </picture>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=hieplevan&hide_border=false&border_radius=10&background=FFFFFF&border=E2E8F0&ring=7C3AED&fire=F97316&currStreakNum=2563EB&sideNums=1E40AF&currStreakLabel=7C3AED&sideLabels=475569&dates=94A3B8" alt="GitHub Streak" />
+  <img src=[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats) />
 </div>
