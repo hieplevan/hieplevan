@@ -56,7 +56,7 @@ Computer Science @ VNUHCM – University of Information Technology
   <br/><br/>
  <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=hieplevan&hide_border=false&border_radius=10&background=FFFFFF&border=E2E8F0&ring=7C3AED&fire=F97316&currStreakNum=2563EB&sideNums=1E40AF&currStreakLabel=7C3AED&sideLabels=475569&dates=94A3B8" alt="GitHub Streak" />
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=hieplevan&hide_border=false&border_radius=10&background=FFFFFF&border=E2E8F0&ring=7C3AED&fire=F97316&currStreakNum=2563EB&sideNums=1E40AF&currStreakLabel=7C3AED&sideLabels=475569&dates=94A3B8)](https://git.io/streak-stats)
   </a>
 </div>
 </div>
