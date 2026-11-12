@@ -40,7 +40,7 @@ Computer Science @ VNUHCM – University of Information Technology
 ## 🛠️Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,pytorch,tensorflow,sklearn,numpy,pandas,git,docker,linux,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,numpy,pandas,git,docker,vscode&perline=12" />
   <br/><br/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
