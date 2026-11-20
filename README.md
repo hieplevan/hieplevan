@@ -38,7 +38,7 @@ Computer Science @ VNUHCM – University of Information Technology
 </tr>
 </table>
 
-## 🛠️Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,sklearn,numpy,pandas,git,docker,vscode&perline=12" />
